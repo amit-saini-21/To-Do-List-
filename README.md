@@ -1,17 +1,26 @@
-# 🪨 Rock Paper Scissors Game 🎮
+# ✅ To-Do List App with Save Feature
 
-This is a modern and interactive **Rock-Paper-Scissors** desktop game built using **Python's Tkinter GUI library** and **PIL for image processing**. The game features a smooth interface, custom images, and live score tracking between the player and the computer.
+A simple and elegant **To-Do List desktop application** built with Python and Tkinter — now with **task persistence** using JSON!  
+Stay organized, save your tasks automatically, and manage your day like a pro. 💪
 
 ---
 
-## 💡 Features
+## 🔥 Features
 
-- 🎨 Beautiful and colorful GUI with custom rock/paper/scissors images.
-- 🤖 Computer plays randomly.
-- 📊 Live score tracking for both player and computer.
-- 🏆 First to 10 points wins the match.
-- 🔁 Game auto-resets after match ends with a popup.
-- 🖼 Image display for each move by both player and computer.
+- ➕ Add New Tasks
+- ✅ Mark Tasks as Completed
+- ❌ Delete Individual Tasks
+- 🗑️ Delete All Tasks
+- 💾 Automatically Saves Tasks using JSON
+- 🎨 Clean & Modern Tkinter UI
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python 3.x**
+- **Tkinter** (GUI)
+- **JSON** (for saving tasks)
 
 ---
 
@@ -20,8 +29,8 @@ This is a modern and interactive **Rock-Paper-Scissors** desktop game built usin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/rock-paper-scissors-game.git
-cd rock-paper-scissors-game
+git clone https://github.com/your-username/todo-list-app.git
+cd todo-list-app
 ```
 ## 🛠 How to Install
 
